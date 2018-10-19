@@ -1,0 +1,13 @@
+{
+  "name": "luckycraft_bot",
+  "version": "1.0.0",
+  "description": "Bot created by LuckyCreations",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
